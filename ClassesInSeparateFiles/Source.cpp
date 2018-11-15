@@ -1,6 +1,3 @@
-//Working with different files
-
-
 // Placing Classes in Different Files
 #include <iostream>
 #include <string>
