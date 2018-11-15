@@ -6,7 +6,7 @@
 using namespace std;
 
 
-//Below colons says basically one function is a member of that class
+//Below colons says basically one function is a member of that class//
 Crypto_Prices::Crypto_Prices()
 {
 	double RayLTC = 100.1;
